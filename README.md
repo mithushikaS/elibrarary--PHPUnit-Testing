@@ -20,6 +20,6 @@ Before running the tests, ensure you have the following installed on your machin
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/e-library-management.git](https://github.com/mithushikaS/e-library.git)
+   git clone (https://github.com/mithushikaS/e-library.git)
    cd e-library-management
 
